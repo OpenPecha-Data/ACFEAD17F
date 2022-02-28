@@ -1,0 +1,25 @@
+segment_sources:
+  P4589C2CE:
+    type: origin_type
+    relation: translation
+    language: en
+  P63942225:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  308dc88f8f694ecaacc8ce945b81c613:
+    P4589C2CE: c4944c7034e04f3791f9f931c6139580
+    P63942225: 0cc3b7eb46e242df95a9349567df6b2c
+  68e5da59480c4eec892f442549e819cf:
+    P4589C2CE: ae101b46b15c4056845b8b455c8d890d
+    P63942225: 003254ed59494ab799c33c57aa5ee88a
+  3bc803d0dd2e4c4b969f6f461a7ab1c7:
+    P4589C2CE: 2718fa2852404ac69f2be1297ff3ec9f
+    P63942225: d3987c2e767c442295770dbb8a757d35
+  e2f31d03b3e44ba695103fe8f1f468d2:
+    P4589C2CE: 5f0cbb559a7d4da5a93887b168356217
+    P63942225: 11b8885f712d4cbab525973216b8952f
+  f72e1246518b4eedb5279c645e1e28e5:
+    P4589C2CE: db530d707704425693549cbbd1deec7b
+    P63942225: 1d26b4384d50422895f9b6fc51de221c
